@@ -116,9 +116,7 @@ header{
     margin-bottom: 12px;
 }
 }
-
 /* header end */
-
 
 /* neive start */
 .Sec1{
@@ -229,8 +227,6 @@ span{
 
 }
 
-
-
 @media only screen and (max-width:767px){
     .abt-image .abt-img{
         box-shadow: 0px 0px 10px black;
@@ -310,8 +306,7 @@ span{
     background-color: #f3f0ff;
     width: 100%;
     padding: 2% 0;
-    padding-bottom: 4%;
-    
+    padding-bottom: 4%; 
 }
 
 .Sec3 .page-head span{
@@ -532,44 +527,6 @@ span{
         text-align: center;
     }
 }
-
-/* 
-.Sec5 .Edu{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    margin-top: 3em;
-    border-left: 1px solid black;
-}
-
-.Education-row{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    align-content: center;
-    border-radius: 10px;
-    
-}
-.Sec5 .Edu .Education-row .college{
-    background-color: rgb(235, 235, 235);
-    box-shadow: 0 0 5px rgb(25, 54, 52);
-}
-
-.Sec5 .Edu .Education-row .course{
-    background-color: rgb(235,235,235);
-    box-shadow: 0 0 5px rgb(25, 54, 52);
-}
-.Sec5 .Edu .Education-row .course h2{
-    margin-top: 1px;
-    font-size: 16px;
-    font-weight: bold;
-
-    color: rgb(25, 54, 52);
-}
-.Sec5 .Edu .Education-row .course p{
-    color: rgb(49, 49, 255);
-} */
 /* Education page end */
 
 /* form start*/
@@ -587,7 +544,6 @@ span{
     padding: 20px 0; 
 }
 .form-row{  
-    /* background-image: linear-gradient(585deg ,white 70%, #0856ff 30%); */
     display: flex;
     align-items: center;
     justify-content:space-between;
@@ -615,14 +571,11 @@ span{
 
 
 .col-12 .btn-color{
-    /* background-color: rgb(240, 183, 54); */
     background-color:rgb(59, 77, 240);
     color: white;
    
 }
 .col-12 .btn-color:hover{
-    /* color: rgb(240,183,54);
-    border:  1px solid rgb(240,183,54); */
     background-color: rgb(59, 77, 240);
     color: white;
     box-shadow: 1px 2px 5px #298fee;
@@ -690,8 +643,6 @@ span{
      padding: 3px 0;
  }
  .footer-c .footer-r .q-links ul .Quick-link a:hover{
-    
-     /* text-decoration: underline; */
      color: #0856ff;
  }
  
